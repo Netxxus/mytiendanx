@@ -455,5 +455,105 @@
     "packageName": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
     "size": 27,
     "added": 1782527769.677647
+  },
+  "CUERVO VPN HYDRA.apk": {
+    "hash": "68ef116047614b6a0ab2f1c6dd2c2de070bd42fdce072225029e350cf58eb6cc",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "se.leap.riseupvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "se.leap.riseupvpn",
+    "versionCode": 182000,
+    "name": "Riseup VPN",
+    "versionName": "1.5.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 82618243,
+    "apkName": "CUERVO VPN HYDRA.apk",
+    "added": 1782531114.649144
+  },
+  "CUERVO VPN HYDRA.apk:Zone.Identifier": {
+    "name": "CUERVO VPN HYDRA.apk:Zone",
+    "apkName": "CUERVO VPN HYDRA.apk:Zone.Identifier",
+    "hash": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "d07777e",
+    "packageName": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "size": 27,
+    "added": 1782531114.649836
   }
 }
