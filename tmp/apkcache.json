@@ -1,0 +1,459 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "NETXXUS LITE signed.apk": {
+    "hash": "499e1db6011396be7617e9f87e32736f8ef34244b852471eec68b967431c6d91",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "de.blinkt.openvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "de.blinkt.openvpn.219.png",
+      "480": "de.blinkt.openvpn.219.png",
+      "320": "de.blinkt.openvpn.219.png",
+      "240": "de.blinkt.openvpn.219.png",
+      "160": "de.blinkt.openvpn.219.png",
+      "0": "de.blinkt.openvpn.219.png"
+    },
+    "antiFeatures": {},
+    "packageName": "de.blinkt.openvpn",
+    "versionCode": 219,
+    "name": "Netxxus Phantom Lite",
+    "versionName": "0.7.64",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 46957066,
+    "apkName": "NETXXUS LITE signed.apk",
+    "icon": "de.blinkt.openvpn.219.png",
+    "added": 1782527765.281987
+  },
+  "NETXXUS NORMAL signed.apk": {
+    "hash": "b9a690afe932aff4655c9767a3e39b9067588af848b40db41a612855ddad7a97",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "de.blinkt.openvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "de.blinkt.openvpn.219.png",
+      "480": "de.blinkt.openvpn.219.png",
+      "320": "de.blinkt.openvpn.219.png",
+      "240": "de.blinkt.openvpn.219.png",
+      "160": "de.blinkt.openvpn.219.png",
+      "0": "de.blinkt.openvpn.219.png"
+    },
+    "antiFeatures": {},
+    "packageName": "de.blinkt.openvpn",
+    "versionCode": 219,
+    "name": "Netxxus Phantom Stable",
+    "versionName": "0.7.64",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 46957066,
+    "apkName": "NETXXUS NORMAL signed.apk",
+    "icon": "de.blinkt.openvpn.219.png",
+    "added": 1782527766.523133
+  },
+  "NETXXUS RAPIDA signed.apk": {
+    "hash": "a0b9ccc304204ad153b39aa49a6bb3c6bc508ff5a6fb4be288dfe8724b17d787",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "de.blinkt.openvpn.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/ic_launcher.png",
+      "160": "res/mipmap-mdpi/ic_launcher.png",
+      "320": "res/mipmap-xhdpi/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi/ic_launcher.png",
+      "-1": "res/mipmap-mdpi/ic_launcher.png"
+    },
+    "icons": {
+      "640": "de.blinkt.openvpn.219.png",
+      "480": "de.blinkt.openvpn.219.png",
+      "320": "de.blinkt.openvpn.219.png",
+      "240": "de.blinkt.openvpn.219.png",
+      "160": "de.blinkt.openvpn.219.png",
+      "0": "de.blinkt.openvpn.219.png"
+    },
+    "antiFeatures": {},
+    "packageName": "de.blinkt.openvpn",
+    "versionCode": 219,
+    "name": "Netxxus Phantom",
+    "versionName": "0.7.64",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 46957066,
+    "apkName": "NETXXUS RAPIDA signed.apk",
+    "icon": "de.blinkt.openvpn.219.png",
+    "added": 1782527767.689582
+  },
+  "Xuper 4.34.4 Mod AR v3 by Fer Cocco.apk": {
+    "hash": "dfefeee26648d20d93e81fff87c2737f347ce1437fd74c2ad78a9a2453254ec8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.WRITE_MEDIA_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.vivo.notification.permission.BADGE_ICON",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/icon_app.png"
+    },
+    "icons": {
+      "240": "com.android.nwm2026xpr.43404.png",
+      "0": "com.android.nwm2026xpr.43404.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.android.nwm2026xpr",
+    "versionCode": 43404,
+    "name": "Xuper",
+    "versionName": "4.34.4",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 34944429,
+    "apkName": "Xuper 4.34.4 Mod AR v3 by Fer Cocco.apk",
+    "icon": "com.android.nwm2026xpr.43404.png",
+    "added": 1782527768.653765
+  },
+  "Xuper.Hydra.HDR.4KP.apk": {
+    "hash": "e70ce12782eec9f43393b69d88e2d243d8812ae38d2acf08856baa877c1ab856",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.WRITE_MEDIA_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.vivo.notification.permission.BADGE_ICON",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi/icon_app.png"
+    },
+    "icons": {
+      "240": "com.xuper.netxxus.43404.png",
+      "0": "com.xuper.netxxus.43404.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.xuper.netxxus",
+    "versionCode": 43404,
+    "name": "Xuper Hydra",
+    "versionName": "4.34.4",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "4ac4fb21bd86de814d13cd9eaceab547",
+    "signer": "de4d40197b71dbb30d7632c5c0e6bce3033b2caa568999a414321e8ba54001bf",
+    "size": 35958098,
+    "apkName": "Xuper.Hydra.HDR.4KP.apk",
+    "icon": "com.xuper.netxxus.43404.png",
+    "added": 1782527769.67685
+  },
+  "Xuper.Hydra.HDR.4KP.apk:Zone.Identifier": {
+    "name": "Xuper.Hydra.HDR.4KP.apk:Zone",
+    "apkName": "Xuper.Hydra.HDR.4KP.apk:Zone.Identifier",
+    "hash": "c08fb4051d7a0ff6670ccbf32a4709c9c5765aa141f440ffc51acaebf64a8dba",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "c08fb40",
+    "packageName": "c08fb4051d7a0ff6670ccbf32a4709c9c5765aa141f440ffc51acaebf64a8dba",
+    "size": 60,
+    "added": 1782527769.67757
+  },
+  "Xuper 4.34.4 Mod AR v3 by Fer Cocco.apk:Zone.Identifier": {
+    "name": "Xuper 4.34.4 Mod AR v3 by Fer Cocco.apk:Zone",
+    "apkName": "Xuper 4.34.4 Mod AR v3 by Fer Cocco.apk:Zone.Identifier",
+    "hash": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "d07777e",
+    "packageName": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "size": 27,
+    "added": 1782527769.677647
+  }
+}
