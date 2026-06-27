@@ -555,5 +555,109 @@
     "packageName": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
     "size": 27,
     "added": 1782531114.649836
+  },
+  "Netxxus Play NUEVA VER7SION.apk": {
+    "hash": "f255f7073e96dce054a1355705014822e1c1dd5d43570f69945b0a738a060c50",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_BASIC_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "netxxus.play.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/drawable/ic_launcher.png",
+      "-1": "res/drawable/ic_launcher.png"
+    },
+    "icons": {
+      "160": "netxxus.play.2.png",
+      "640": "netxxus.play.2.png",
+      "0": "netxxus.play.2.png"
+    },
+    "antiFeatures": {},
+    "packageName": "netxxus.play",
+    "versionCode": 2,
+    "name": "Netxxus Play",
+    "versionName": "9.8",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "f839a024bd0f3137db5abeb0057aaefe",
+    "signer": "e9f3a7912966f93d1f15e18958ba22ab953c2f9ba21a1c9ca52cc49adb943aaa",
+    "size": 36127329,
+    "apkName": "Netxxus Play NUEVA VER7SION.apk",
+    "icon": "netxxus.play.2.png",
+    "added": 1782531619.780538
+  },
+  "Netxxus Play NUEVA VER7SION.apk:Zone.Identifier": {
+    "name": "Netxxus Play NUEVA VER7SION.apk:Zone",
+    "apkName": "Netxxus Play NUEVA VER7SION.apk:Zone.Identifier",
+    "hash": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "d07777e",
+    "packageName": "d07777e0dc36ebecce3fa9644f0f44dc4a0b7ede0cbc1f5d33e8d6cb07af5b5c",
+    "size": 27,
+    "added": 1782531619.781258
   }
 }
